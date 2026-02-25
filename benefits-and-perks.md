@@ -95,7 +95,7 @@ Everyone has the option to purchase pet insurance through Figo at a 10% discount
 
 37signals shares 10% of its annual company profits with employees, which is distributed in shares based on tenure. Profits are distributed after the books are closed on the previous fiscal year, usually around March (e.g. 2025 profits distributed in March 2026).
 
-You’re eligible to participate in profit sharing after two years of working at 37signals. You’ll accrue one share per month starting on your second anniversary at 37signals, and you’ll max out your shares at 10 years. We calculate shares based on months of tenure so there’s no unfair cliff between being hired in December vs January.
+You’re eligible to participate in profit sharing after two years of working at 37signals. You’ll accrue one share per month starting on your second anniversary at 37signals, and you’ll max out your shares at 6 years. We calculate shares based on months of tenure so there’s no unfair cliff between being hired in December vs January. When you celebrate your 10th anniversary with the company, you receive an additional 10 bonus shares for the occasion. 
 
 We ask that you think of any compensation from this program as not something to be counted upon, not something to be budgeted with, but as a true bonus. Year to year, profits and therefore the amount we’re able to share with employees may swing wildly or not be paid out at all.
 
